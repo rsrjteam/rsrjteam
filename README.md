@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsrjteam
 - 👀 I’m interested in collaboration with team
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning advanced coding
 - 💞️ I’m looking to collaborate on new Projects
 - 📫 How to reach me- email: rsrjteamwork@gmail.com
 - 😄 Pronouns: they/them
